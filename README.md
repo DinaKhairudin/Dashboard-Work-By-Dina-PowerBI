@@ -60,5 +60,4 @@ This Power BI dashboard represents the initial version created as part of a grou
   Data preparation
   Power BI dashboard building
   Dataset cleaning and transformation
-  
   More upgrades will be added over time as part of continuous improvement.
